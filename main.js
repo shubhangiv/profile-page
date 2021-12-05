@@ -21,5 +21,3 @@ $('.open-music-btn').on('click', function() {
 $('.open-timer-btn').on('click', function() {
   $('.timer-display').toggleClass('show'); 
 });
-
-Resources
